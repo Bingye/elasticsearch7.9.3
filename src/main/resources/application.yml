@@ -1,0 +1,8 @@
+spring:
+  data:
+    elasticsearch:
+      client:
+        reactive:
+          endpoints: localhost:9200
+          use-ssl: false
+
